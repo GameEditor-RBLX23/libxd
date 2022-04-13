@@ -71,7 +71,7 @@ local themeStyles = {
         ElementColor = Color3.fromRGB(224, 224, 224)		
     },    
 	Lime = {
-        SchemeColor = Color3.fromRGB(227, 27, 27),
+        SchemeColor = Color3.fromRGB(48, 162, 0),
         Background = Color3.fromRGB(0, 0, 7),
         Header = Color3.fromRGB(48, 162, 0),
         TextColor = Color3.fromRGB(255,255,255),

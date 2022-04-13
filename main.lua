@@ -72,8 +72,8 @@ local themeStyles = {
     },    
 	Lime = {
         SchemeColor = Color3.fromRGB(227, 27, 27),
-        Background = Color3.fromRGB(0, 0, 18),
-        Header = Color3.fromRGB(5, 5, 5),
+        Background = Color3.fromRGB(0, 0, 7),
+        Header = Color3.fromRGB(48, 162, 0),
         TextColor = Color3.fromRGB(255,255,255),
         ElementColor = Color3.fromRGB(20, 20, 20)
     },
